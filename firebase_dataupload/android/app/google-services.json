@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311933208735",
+    "project_id": "fir-dataupload-62207",
+    "storage_bucket": "fir-dataupload-62207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311933208735:android:fba61db628a0e6b5f0faaa",
+        "android_client_info": {
+          "package_name": "com.example.firebase_dataupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311933208735-661djpb55akjv364h19svp0vtfl0br3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiQYYiYt2HS_aPYe38NtvnAWuwB2bM6II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311933208735-661djpb55akjv364h19svp0vtfl0br3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

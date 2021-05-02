@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440656173434",
+    "project_id": "movieapp-b210e",
+    "storage_bucket": "movieapp-b210e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440656173434:android:c7b86f0ad8983307c71ec3",
+        "android_client_info": {
+          "package_name": "com.example.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440656173434-751h2roj6318e8is31ftbhuhhbr4tnrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu5mUhLq0IoTAOmNB18n6P2k7h9tURqls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440656173434-751h2roj6318e8is31ftbhuhhbr4tnrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

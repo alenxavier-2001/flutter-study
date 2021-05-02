@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690823443057",
+    "project_id": "woocomerceapp",
+    "storage_bucket": "woocomerceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690823443057:android:3988233d704aafc8df61d0",
+        "android_client_info": {
+          "package_name": "com.example.woocom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690823443057-ng2m7v9lf8186i2ptmq7kkpdno07lf22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9YOV_Bt2bIsKePvj6GjlDJUbrCTIqsJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690823443057-ng2m7v9lf8186i2ptmq7kkpdno07lf22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
